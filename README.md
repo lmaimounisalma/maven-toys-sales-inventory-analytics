@@ -264,6 +264,9 @@ The analysis combines sales, product, store, geographic, and inventory perspecti
 
 ## Author
 
-**Sara Lmaimouni**
+**Salma Lmaimouni**
 
-Data Analytics | Business Intelligence | Data Science | DevOps
+Second-year Management student | Interested in Data Analytics, Business Intelligence, and Technology
+
+
+
