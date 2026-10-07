@@ -197,7 +197,7 @@ The analysis was performed using Excel formulas, pivot-based analysis, calculate
 - Data Visualization
 - GitHub
 
-### Skills Demonstrated
+### Skills Applied in This Project
 
 - Data Cleaning
 - Data Analysis
