@@ -253,6 +253,11 @@ This repository contains:
 - **README** — Project documentation
 
 ---
+### Full Excel Workbook
+
+The complete Excel analytics workbook is available here:
+
+[Open the Excel Workbook](https://1drv.ms/x/c/a14d8ab82bfe55af/IQCx6q4FdS6ERYMoaWfjnoUkAYKN7E95XYJL9sNbjJgeWKU?e=wzVSaH)
 
 ## Conclusion
 
